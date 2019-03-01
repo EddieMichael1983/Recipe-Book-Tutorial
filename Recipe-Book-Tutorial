@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        .cook {color: red;}
+        h1 {color: rgb(240, 20, 0);}
+        h1 {background-color: rgb(244, 255, 25);}
+        
+        h2 {background-color: rgb(230, 252, 143);}
+        
+        table {background-color: rgb(50, 242, 252);}
+       
+        </style>
+    </head>
+    <body>
+       
+        <h1>Recipe Book</h1>
+        <h1 id="booktitle"></h1>
+        
+        <img src ="http://thecookbook.ie/product/the-cookbook/">
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Japanese Ramen</a></li>
+            <li><a href="#recipe2">Texas Taco</a></li>
+            <li><a href="#recipe3">Italian Pizza</a></li>
+    
+        </ol>
+        
+        <h2 id="recipe1">Japanese Ramen</h2>
+        <img src="https://www.myjapanbox.com/shop/ramen-box/">
+        
+        <ul>
+            <li>Time: 10 Minutes</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Noodles</td>
+                <td>4 oz</td>
+                <td>
+            </tr>
+            <tr>
+                <td>Chicken and Pork Broth</td>
+                <td>8 oz
+            </tr>
+            <tr>
+                <td>Chives</td>
+                <td>Handful</td>
+            </tr>
+            <tr>
+                <td>Soft-Boiled Egg</td>
+                <td>1</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Boil Broth
+</p>
+        <p><strong>Step 2:</strong> Add Noodles
+</p>
+        <p><strong>Step 3:</strongCook at a low boil for 5 minutes
+</p>
+        <p><strong>Step 4:</strong> Add chives and egg
+</p>
+
+        <h2 id="recipe2">Texas Taco</h2>
+        <img src="https://www.geniuskitchen.com/recipe/breakfast-tacos-48603">
+        
+        <ul>
+            <li>Time: 5 Minutes</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Tortilla</td>
+                <td>1-4</td>
+                <td>
+            </tr>
+            <tr>
+                <td>Scrambled Eggs</td>
+                <td>2-3
+            </tr>
+            <tr>
+                <td>Queso Fresco</td>
+                <td>2-3 tbsp</td>
+            </tr>
+            <tr>
+                <td>Refried Beans</td>
+                <td>2-3 tbsp</td>
+            </tr>
+            <tr>
+                <td>Valentina</td>
+                <td>1 tsp</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cook Scrambled Eggs
+</p>
+        <p><strong>Step 2:</strong> Cook Refried Beans in Same Pan
+</p>
+        <p><strong>Step 3:</strong> Add Queso Fresco
+</p>
+        <p><strong>Step 4:</strong> Heat Up Tortillas
+</p>
+        <p><strong>Step 5:</strong> Add Valentina
+</p>
+
+        <h2 id="recipe3">Italian Pizza</h2>
+        <img src="https://hu.wikipedia.org/wiki/Nápolyi_pizza#/media/File:Eq_it-na_pizza-margherita_sep2005_sml.jpg">
+        
+        <ul>
+            <li>Time: 30 Minutes Prep, 20 Minutes Cook Time</li>
+            <li>Serves: 2-3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Pizza Dough Ball</td>
+                <td>1</td>
+                <td>
+            </tr>
+            <tr>
+                <td>Mozzarella Cheese</td>
+                <td>8 oz
+            </tr>
+            <tr>
+                <td>Marinara Sauce</td>
+                <td>4-6 oz</td>
+            </tr>
+            <tr>
+                <td>Fresh Basil</td>
+                <td>Handful</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td>1/2 tsp</td>
+            </tr>
+            <tr>
+                <td>Fresh Sliced Tomatoes</td>
+                <td>1-2
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Let the Pizza Dough Rise for half an hour
+</p>
+        <p><strong>Step 2:</strong> Pre-heat oven to 425-450F
+</p>
+        <p><strong>Step 3:</strong> After dough has risen, roll out with a pin and/or stretch by hand
+</p>
+        <p><strong>Step 4:</strong> Add Mozzarella, Tomatoes, Basil, and Salt
+</p>
+        <p><strong>Step 5:</strong> Bake for 15-20 minutes
+</p>
+        
+    </body>
+</html>
