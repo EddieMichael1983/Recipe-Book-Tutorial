@@ -4,7 +4,6 @@
         <title>Project: Recipe book</title>
         <meta charset="utf-8">
         <style>
-        .cook {color: red;}
         h1 {color: rgb(240, 20, 0);}
         h1 {background-color: rgb(244, 255, 25);}
         
